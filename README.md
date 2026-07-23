@@ -15,8 +15,7 @@ The goal of the assignment is not to teach finance or investment strategy, but r
 
 ## Repository Contents
 ├── Assignment/
-│ └── Portfolio_Assignment.pdf
-│
+│   └── Inference_Over_Intuition_Portfolio_Assignment.pdf
 └── README.md
 
 ## Assignment Overview
