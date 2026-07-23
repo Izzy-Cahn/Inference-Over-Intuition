@@ -13,11 +13,6 @@ The goal of the assignment is not to teach finance or investment strategy, but r
 - correlation,
 - interpretation of empirical results.
 
-## Repository Contents
-├── Assignment/
-│   └── Inference_Over_Intuition_Portfolio_Assignment.pdf
-└── README.md
-
 ## Assignment Overview
 
 Students work in teams to construct two hypothetical stock portfolios over a fixed investment horizon:
