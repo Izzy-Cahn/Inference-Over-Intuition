@@ -47,4 +47,4 @@ For additional information, see:
 If you use or adapt this assignment, please cite:
 
 Cahn, Yisroel.  
-*"Inference Over Intuition: A Portfolio-Based Assignment for Teaching Statistical Inference in Undergraduate Econometrics."*
+*"Inference Over Intuition: A Portfolio-Based Assignment for Teaching Statistical Inference in Undergraduate Econometrics."* Working paper.
